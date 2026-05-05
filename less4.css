@@ -1,0 +1,16 @@
+ol { 
+ list-style-type: upper-roman;
+}
+ul li { 
+ list-style-image: url(one.png); 
+ padding-left: 10px; 
+}
+ls { 
+ width: 250px; background-color: #ffccff;
+}
+ #list1 {
+    list-style-position: inside; 
+}
+ #list2 {
+    ist-style-position: outside; 
+ }  
